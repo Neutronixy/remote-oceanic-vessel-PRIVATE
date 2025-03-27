@@ -1,4 +1,4 @@
-# Remote-oceanic-vessel-PRIVATE-
+# Remote Oceanic Vessel (PRIVATE)
 State-of-the-art autonomous navigation and control systems, allowing seamless operation from the remotest oceanic reaches.
 
 **THIS PROJECT IS PRIVATE. CONTACT ME FOR ANY INFO IF INTERESTED!**  
